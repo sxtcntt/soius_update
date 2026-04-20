@@ -4,8 +4,8 @@
     "launcher_min_version":  "0.0.5",
     "format":  "zip",
     "artifact_url":  "https://github.com/sxtcntt/wintools_update/releases/download/v0.0.5/WinTools-v0.0.5.zip",
-    "sha256":  "8272e7646ffe1a0b1227bec6dd244ec535479906c3bd32846b08547bb32ef624",
-    "signature":  "95fd2c4b872120c2b456411e128f4ad6bb0539026d8d609437ded9f438253a8043f5d2014110c9f47a4db4149308220a56f5b7e7ba3d86f18611f6d1a0916509",
-    "size":  106583397,
+    "sha256":  "ff0a59fceb3c09734ba851c01e0a73ed5aa99ac44f364ec45d9bf657b3672890",
+    "signature":  "f3b966a14f5b145e56b44e797dec504dc33d685c03bbc9e9c345387e9d029bc4a33a3643c630d7ca42bd9f69a76e4d8e32e418f4f3327caf4efc4b6813c5ba01",
+    "size":  106583794,
     "changelog":  "Release v0.0.5"
 }
