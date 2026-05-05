@@ -1,15 +1,15 @@
 {
     "manifest_version":  1,
     "version":  "0.2.2",
-    "launcher_min_version":  "0.1.9",
+    "launcher_min_version":  "0.2.0",
     "format":  "zip",
     "artifact_url":  "https://github.com/sxtcntt/wintools_update/releases/download/v0.2.2/WinTools-v0.2.2.zip",
-    "sha256":  "17e717bedcbd718173dad75ad263f76c4009e78b51d1e9f92a7072ed1aa7306b",
-    "signature":  "6e149717beb2f6629e2c6876ea36be4a32bfa6160e9936225f5692815f0111b431e038f417fd4794630745d9c78914c7c9b6d6557e6cb7d3e457faae8581370f",
-    "size":  123225009,
-    "launcher_version":  "0.1.9",
+    "sha256":  "a77121ddb052477fef8fcf8e9fbf8742ff295a9b397ba1b8e17c8b4a411286fc",
+    "signature":  "f6ff1b7e8dbcdc1861cf821574ba0b41d019666e402704b98da9614c6605f19f627e4b8cf1fc646eaff8bc4fbfcbdf4d405f4d256de0ada2b4bba81e9cc87b08",
+    "size":  123226827,
+    "launcher_version":  "0.2.0",
     "launcher_url":  "https://github.com/sxtcntt/wintools_update/releases/download/v0.2.2/Launcher.exe",
-    "launcher_sha256":  "d8af77b219c0b1a9ecf4c811e653ccecd7604b4c97e677ae67dcb1318ce40a8d",
-    "launcher_size":  3162112,
+    "launcher_sha256":  "b08e70aa293ab9da3f1b6c28e5222b6ef67e0f473169d0092504aef8ce936e0f",
+    "launcher_size":  3167232,
     "changelog":  "Release v0.2.2"
 }
