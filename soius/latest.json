@@ -4,12 +4,12 @@
     "launcher_min_version":  "0.9.9",
     "format":  "zip",
     "artifact_url":  "https://github.com/sxtcntt/soius_update/releases/download/soius-v0.9.9/Soius-v0.9.9.zip",
-    "sha256":  "7c94b6c84dfb7e5bb5b402e92bfcf2863cf189124b215733cab591d12f2a7ace",
-    "signature":  "bc7eb7d3a047899a08f2eae798c1cc12dbb9982a2362fa32a32eea9f78ec2e230bb5f754bb68a0e6be786421cbdc07858a143c1c1bb451924dd79344ffdd7807",
-    "size":  214596560,
+    "sha256":  "7b51c973ba26aa5fe2a8d7a027f18378401369e838ae89d8a7ab7b646e0b7a31",
+    "signature":  "b5c906ed3f77877768772324015219daab63f7bc0f639bcdeed24fb574d8952b5a3ae67034c57b845d7253f262f2998b000c18b815ca470de39b82f51a913d06",
+    "size":  216726456,
     "launcher_version":  "0.9.9",
     "launcher_url":  "https://github.com/sxtcntt/soius_update/releases/download/soius-v0.9.9/Soius-Launcher-v0.9.9.exe",
-    "launcher_sha256":  "f9c1c5f8af26946f86322aed6e107dd7963d04a58d401b00c0a3ac38b5ea754e",
-    "launcher_size":  3084800,
+    "launcher_sha256":  "aad818e45a311cff979ac982dba3c7851ab5787aa61ed3748c6abf68b9276a9b",
+    "launcher_size":  7296000,
     "changelog":  "Release v0.9.9"
 }
