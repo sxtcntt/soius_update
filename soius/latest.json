@@ -4,9 +4,9 @@
     "launcher_min_version":  "0.9.95",
     "format":  "zip",
     "artifact_url":  "https://github.com/sxtcntt/soius_update/releases/download/soius-v0.9.95/Soius-v0.9.95.zip",
-    "sha256":  "47957f8576131ce87152c570323e933f944b83678786ae7a9482fd2f5218899b",
-    "signature":  "746916e11f74fb268e395fa59bea8c59ad301d8d0b45311b3ce9bc134101bad4fc91693d90c362d00269c006bee55ee1509b1362b2ab5635adc21ecc27b53108",
-    "size":  216712462,
+    "sha256":  "ef8515a6720c6d1b907564a96434751f2435357d27da42ce2012e0a7e03fd7aa",
+    "signature":  "d17c637e28430b945ab93559258082db5336c3a8934a43d3054ad51bce0fbe7e22b5fa6b7c131d4c370d7515e8a1cea9b2c5412516e9945bb6cac388a0bf6502",
+    "size":  216712058,
     "launcher_version":  "0.9.95",
     "launcher_url":  "https://github.com/sxtcntt/soius_update/releases/download/soius-v0.9.95/Soius-Launcher-v0.9.95.exe",
     "launcher_sha256":  "442395fa4a429c6045161f41ee58d0ea83889f7e0a9abfec64bd1130cd0ba8e9",
@@ -14,10 +14,10 @@
     "changelog":  "Release v0.9.95",
     "format_linux":  "targz",
     "artifact_url_linux":  "https://github.com/sxtcntt/soius_update/releases/download/soius-v0.9.95/Soius-v0.9.95-linux-x86_64.tar.gz",
-    "sha256_linux":  "6572bca84335849c9603deec971409c1c314719ec19ad53e66bb0e70c8e20769",
-    "signature_linux":  "9b6960df841b5e8465d62fbf058b331d13241d146fe9c8075e81a8e8a49aba639937948e267f3fd726ffd1aff6280976714905ce6f694880443918a8ef63d200",
-    "size_linux":  220151000,
+    "sha256_linux":  "74ec129ebcd27fb822c6d6b60fc357456b79622a7ed007752cab6f367eef631c",
+    "signature_linux":  "e235af3dadcfa5cd03ec9afe3878c4593661f2fccd14fe3fe4f4108f29c9b58e3924ea9c5fc907a5aae05145dad9111037864e610ecf972d06c5b009f452ea0e",
+    "size_linux":  137061076,
     "launcher_url_linux":  "https://github.com/sxtcntt/soius_update/releases/download/soius-v0.9.95/soius-launcher-v0.9.95-linux-x86_64",
-    "launcher_sha256_linux":  "6ed9295ad6643f34cc7b98acc326729505a1c6c49e11db8a431608ccadf1503f",
-    "launcher_size_linux":  9659008
+    "launcher_sha256_linux":  "cfdabfea2a7e048737d629996c6715b2ac707524934b852621aabc144bb89ed2",
+    "launcher_size_linux":  9629720
 }
